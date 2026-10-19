@@ -28,4 +28,11 @@ print(complex(s1))
 print(bool(s1))
 print(str(s1))
 
+print("---------------------------------------------------")
+print("Complex")
 
+C = 1 + 2j
+print(int(C.real))
+print(float(C.real))
+
+print(bool(C))
