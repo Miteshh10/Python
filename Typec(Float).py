@@ -3,7 +3,7 @@ print("---------------------------------------------------")
 print("string conversion to int, float, complex and bool")
 # string conversion to int, float, complex and bool
 
-s = 'mitesh'
+
 s1= 100.345
 
 # print(int(s))
