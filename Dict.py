@@ -10,7 +10,7 @@ print(student["age"])
 
 student = {
     "name": "Mitesh",
-    "age": 22,
+    "age": 23,
     "course": "Python"
 }
 
