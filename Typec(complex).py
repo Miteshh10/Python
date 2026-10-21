@@ -1,7 +1,7 @@
 print("---------------------------------------------------")
 print("Complex")
 
-C = 1 + 3j
+C = 1 + 9j
 print(int(C.real))
 print(float(C.real))
 
