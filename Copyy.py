@@ -17,3 +17,13 @@ b.append(30)
 
 print(a)
 print(b)
+
+print("---------------------------------------------------")
+
+a = "Hello"
+b = a
+
+b = "Python"
+
+print(a)
+print(b)
