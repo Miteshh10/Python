@@ -19,7 +19,7 @@ data = {((1,2), 2), (3, 4), (5, 6)}
 tp = dict(data)
 
 print(tp)
-data = {("name", "Mitesh"), ("age", 22), ("city", "Surat")}
+data = {("name", "Miitesh"), ("age", 22), ("city", "Surat")}
 
 result = dict(data)
 
