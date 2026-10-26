@@ -10,7 +10,7 @@ print(type(s))
 
 print(tuple(l))
 
-list = [['miesh', 2], [3, 4], [5, 6]]
+list = [['miesh', 3], [3, 4], [5, 6]]
 dt =dict(list)
 
 
