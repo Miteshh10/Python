@@ -16,7 +16,7 @@ print(tuple(T))
 S = "MALAYLAM"
 s1=123124562928
 print(set(S))
-print(set(s1))  # This will raise an error because a string cannot be converted to a dictionary
+# print(set(s1))  # This will raise an error because a string cannot be converted to a dictionary
 
 d=[(1,"mitesh"),(1.0,4+5j),( 1+2j,'mitesh'), (True,30), ('lo','lo'), ((90,12,78),[1,2,3])]
 print(dict(d)) 
@@ -24,3 +24,19 @@ print(dict(d))
 # string can be converted into 
 # int : string should be in number format,
 #  float, complex, bool, list, tuple, set and dict
+
+
+a ='2'
+print(complex(a),9)
+
+p ='hi'
+lost=[p]
+
+lo=dict(lost)
+print(lo)  # This will raise an error because a string cannot be converted to a dictionary
+
+opop= ['mi']
+print(dict(opop))  # This will raise an error because a string cannot be converted to a dictionary
+
+popo= ['1i','ti']
+print(dict(popo))  # This will raise an error because a string cannot be converted to
