@@ -9,7 +9,7 @@ a = {"name": "Mitesh", "age": 22}
 
 print(list(a))
 
-a = {"x": 19, "y": 30}
+a = {"x": 19, "y": 39}
 
 print(tuple(a))
 print(tuple(a.values()))
