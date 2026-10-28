@@ -42,7 +42,7 @@ print(b)  # Output: [1, 3, 'four', [10, 20, 30]]
 b.remove([10,20 , 30])  # This will remove the list [10, 20, 30] from b
 print(b)  # Output: [1, 3, 'four']
 
-c = [1, 2, 3, 'four', [10, 20, 30]]
+c = [1, 2, 3, 'fourr', [10, 20, 30]]
 
 
 c[4].remove(30)  # This will remove the value 20 from the nested list [10, 20, 30]
