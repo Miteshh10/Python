@@ -16,8 +16,9 @@ print(set(set2))
 set1 =  (1,2.3 , "om", (4+5j), (1,2))
 print(set(set1))
 
-# dict = {1: "om", 2: "po"}
-# print(dict)
+dt = {1: "om", 2: "NAGPUR"}
+print(dict(dt))
 
 d = ()
 print(dict(d))
+
