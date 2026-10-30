@@ -5,7 +5,7 @@
 #evah
 #,ayH 
 
-S = "Hey all, we have a lot of time"
+S = "Hey alLl, we have a lot of time"
 a = len(S)
 print(a)
 
