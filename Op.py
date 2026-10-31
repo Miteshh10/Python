@@ -28,3 +28,14 @@ print(s)
 
 # dict = {"a":1,"b":2} + {"c":3,"d":4}
 # print(dict)
+
+print("------------------------------")
+
+#subtraction operator
+
+l = 10.8 - (7+3j)
+print(l)
+
+seet= {1,2,3, 4} - {4,5,6}
+
+print(seet)
