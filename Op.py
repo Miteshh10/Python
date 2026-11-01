@@ -89,8 +89,12 @@ BA = {"Nae":"Mohit",
 print(AB==BA)
 
 
-sett = {1,2,3,8} == {3,8,2,1}
+sett = {1,2,3} == {7,2,1}
 print(sett)
 
 lit = [1,2,3,4] == [4,3,2,1]
 print(lit)
+
+
+oz =8//3
+print(oz)
