@@ -95,6 +95,5 @@ print(sett)
 lit = [1,2,3,4] == [4,3,2,1]
 print(lit)
 
-
-oz =8//3
+oz =8//3.3
 print(oz)
