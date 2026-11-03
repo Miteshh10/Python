@@ -1,5 +1,5 @@
 print("---------------------------------------------------")
-print("Complex")
+print("Compllex")
 
 C = 9 + 9j
 print(int(C.real))
