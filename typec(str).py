@@ -18,7 +18,7 @@ s1=12312456992928
 print(set(S))
 # print(set(s1))  # This will raise an error because a string cannot be converted to a dictionary
 
-d=[(1,"mitesh"),(1.0,4+5j),( 1+2j,'mitesh'), (True,30), ('lo','lo'), ((90,12,78),[1,2,3])]
+d=[(1,"miteSSsh"),(1.0,4+5j),( 1+2j,'mitesh'), (True,30), ('lo','lo'), ((90,12,78),[1,2,3])]
 print(dict(d)) 
 
 # string can be converted into 
