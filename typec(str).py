@@ -14,7 +14,7 @@ T = "RITESH"
 print(tuple(T))
 
 S = "MALAYLAM"
-s1=123124562928
+s1=12312456992928
 print(set(S))
 # print(set(s1))  # This will raise an error because a string cannot be converted to a dictionary
 
