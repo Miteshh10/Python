@@ -1,7 +1,7 @@
 print("---------------------------------------------------")
 print("Compllex")
 
-C = 9 + 9j
+C = 9 + 8j
 print(int(C.real))
 print(float(C.real))
 
