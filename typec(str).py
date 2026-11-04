@@ -7,7 +7,7 @@ print(float(s))
 
 print(complex(c))
 print(bool(s))
-l = "MITESH"
+l = "MITTESH"
 print(list(l))
 
 T = "RITESH"
