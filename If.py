@@ -9,3 +9,9 @@ a = 10
 
 if a % 2 == 0:
     print("Even number")
+
+#Check voting eligibility
+age = 20
+
+if age >= 18:
+    print("Eligible for voting")
