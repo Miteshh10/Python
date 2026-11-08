@@ -7,7 +7,7 @@ else:
 
 a = int(input("Enter a number: "))
 
-if a % 2 == 0:
+if a % 3 == 0:
     print("Number is even")
 else:
     print("Number is odd")
