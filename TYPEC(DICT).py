@@ -18,3 +18,5 @@ print(tuple(a.items()))
 a = {"x": 10, "y": 20}
 
 print(set(a))
+D ={"A":[1,2,3],"B":[4,5,6]}
+print(set(D.values()))
