@@ -23,3 +23,13 @@ while i <= 50:
         print(i)
 
     i += 1
+
+
+i = 1
+total = 0
+
+while i <= 10:
+    total = total + i
+    i += 1
+
+print("Sum:", total)
