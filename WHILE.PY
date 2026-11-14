@@ -42,3 +42,13 @@ while num > 0:
     count += 1
 
 print("Total digits:", count)
+
+num = 12345
+total = 0
+
+while num > 0:
+    digit = num % 10
+    total = total + digit
+    num = num // 10
+
+print("Sum of digits:", total)
