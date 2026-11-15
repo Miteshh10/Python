@@ -52,3 +52,10 @@ while num > 0:
     num = num // 10
 
 print("Sum of digits:", total)
+
+
+B= [1,2,4]
+B.append(5)
+print(B)
+B.add(6)  # This will raise an AttributeError since 'list' object has no attribute 'add'
+
