@@ -11,8 +11,14 @@
 # if NUM > 0:
 #     print("The number is positive")
 
-num = (input("Enter a number: "))
-rev=num[::-1]
-if num==num[::-1]:
-    print("The number is a palindrome")
-     
+# num = (input("Enter a number: "))
+# rev=num[::-1]
+# if num==num[::-1]:
+#     print("The number is a palindrome")
+
+# 
+
+svd = eval(input("Enter a data: "))
+print(type(svd))
+if type(svd) in (int, float, complex , bool):
+    print("The data is a svd")
